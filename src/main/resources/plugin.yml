@@ -1,0 +1,7 @@
+name: fSpawnerFix
+version: 1.0.0
+main: io.github.leerdie.fspawnerfix.SpawnerFixPlugin
+api-version: 1.20
+description: Restores mob type for spawners placed from ItemStack BlockEntityTag data.
+authors:
+  - LeerDie
